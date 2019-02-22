@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "android-tv-rc",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Android TV Remote Control",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/kbbgl/android_tv_remote_ctrl.git",
   "keywords": [
     "Electron",
     "quick",
@@ -18,5 +18,9 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^4.0.4"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "npm": "^6.8.0"
   }
 }

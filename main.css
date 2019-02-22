@@ -1,0 +1,26 @@
+#remoteroot {
+    margin-top: 20px;
+    position: absolute;
+    vertical-align: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.2em;
+}
+
+h6 {
+    font-size: 0.7em;
+}
+
+.bmd-btn-fab.custom-file-control:before, .btn.bmd-btn-fab {
+    min-width: 5.4rem;
+    height: 5.4rem;
+}
